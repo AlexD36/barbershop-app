@@ -3,8 +3,6 @@
 
 # **DownStairs - BarberShop**
 
-**Salon Management Application**
-
 ![Dart](https://img.shields.io/badge/Dart-2.18-blue?style=flat-square) 
 ![Flutter](https://img.shields.io/badge/Flutter-3.10.0-blue?style=flat-square) 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-3.x-yellow?style=flat-square)
