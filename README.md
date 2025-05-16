@@ -114,4 +114,6 @@ We welcome contributions to improve the **Salon Management Application**. To con
   - Alessio Greavu
   - Alexandru Duta
 
----
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
